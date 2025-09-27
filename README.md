@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Tamil Selvan K
 
 ![Profile Banner](https://img.shields.io/badge/AI%2FML-Developer-blue?style=flat&logo=python)  
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 🚀 **AI/ML Developer | Computer Vision | Generative AI | Edge AI**  
 
 From building AI-powered products to deploying real-world automation systems, I specialize in **Deep Learning, Generative AI, NLP, Computer Vision, and Edge AI**. I love transforming ideas into production-ready solutions and scaling AI products for impact.
