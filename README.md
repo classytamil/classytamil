@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/AI%2FML-Developer-blue?style=flat&logo=python)  
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 🚀 **AI/ML Developer | Computer Vision | Generative AI | Edge AI**  
